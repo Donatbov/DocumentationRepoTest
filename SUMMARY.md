@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Dashboard](README.md)
+* [Tableau de bord](README.md)
 
-## Events
+## Agenda
 
-* [Edit event](events/edit-event.md)
-* [Update event](events/update-event.md)
+* [Publier un évènement](agenda/publier-un-evenement.md)
+* [Modifier un évènement](agenda/modifier-un-evenement.md)
