@@ -6,3 +6,7 @@
 
 * [Edit event](events/edit-event.md)
 * [Update event](events/update-event.md)
+
+***
+
+* [Delete event (new)](delete-event-new.md)
